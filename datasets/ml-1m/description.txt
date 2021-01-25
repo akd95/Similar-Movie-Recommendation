@@ -1,0 +1,5 @@
+DATASET USED: ml-1m dataset is used for this project, which is a Movie Lens dataset provided by movielens.com
+
+Entire dataset is distributed into 3 files, they are: users.dat, ratings.dat, and movies.dat
+
+The fourth sample.dat file is added for my convenience for debugging purposes.
